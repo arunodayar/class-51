@@ -1,0 +1,27 @@
+.intro{
+    background-color: #fc8e4eda;
+    display:flex;justify-content:space-between;
+}
+body{
+    background-color:#6b6b6b;
+
+}
+*{
+border:dotted
+}
+.retro{
+    background-color:#f279ff;
+}
+.Game{
+    background-color: #74c3e7;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icons{
+    background-color: #76eec0;
+}
+a{
+    margin-top:20 ;
+}
+
+
